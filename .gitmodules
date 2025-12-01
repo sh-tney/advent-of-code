@@ -1,0 +1,3 @@
+[submodule "2025-go"]
+	path = 2025-go
+	url = https://github.com/sh-tney/aoc-2025-go
