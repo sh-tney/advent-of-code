@@ -1,3 +1,6 @@
 [submodule "2025-go"]
 	path = 2025-go
 	url = https://github.com/sh-tney/aoc-2025-go
+[submodule "2025-ts"]
+	path = 2025-ts
+	url = https://github.com/sh-tney/aoc-2025-ts
